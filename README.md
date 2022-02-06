@@ -1,3 +1,17 @@
+ The following modules were selected:
+Used:
+
+ * - Spring Data JPA
+ * - Spring Web
+ * - H2 Database
+ * - PostgreSQL
+ * - Swagger 2
+ * - Lombok
+ * - Java 8
+ * - Maven
+ * - Heroku
+
+
 # Teste de seleção para vaga de Java
 Faça um fork desse projeto e siga as instruções a seguir utilizando esse projeto.
 Pré-requisitos
@@ -29,4 +43,9 @@ Critérios de avaliação:
 # Entrega:
 
     Disponibilizar um link do repositório no GitHub e encaminhar para developer@cd2.com.br
+    
+# Link Heroku
+    
+    [https://afternoon-sea-54834.herokuapp.com/swagger-ui.html]
+
 
