@@ -5,7 +5,8 @@ Used:
  * - Spring Web
  * - H2 Database
  * - PostgreSQL
- * - Swagger 2
+ * - Docker
+ * - Swagger
  * - Lombok
  * - Java 8
  * - Maven
