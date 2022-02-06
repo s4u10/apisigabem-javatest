@@ -3,10 +3,12 @@ Used:
 
  * - Spring Data JPA
  * - Spring Web
+ * - PostgreSQL Driver
+ * - Spring Boot DevTools
  * - H2 Database
  * - PostgreSQL
  * - Docker
- * - Swagger
+ * - Swagger2
  * - Lombok
  * - Java 8
  * - Maven
@@ -14,6 +16,7 @@ Used:
 
 
 # Teste de seleção para vaga de Java
+
 Faça um fork desse projeto e siga as instruções a seguir utilizando esse projeto.
 Pré-requisitos
 
