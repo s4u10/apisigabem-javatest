@@ -46,6 +46,6 @@ Critérios de avaliação:
     
 # Link Heroku
     
-    [https://afternoon-sea-54834.herokuapp.com/swagger-ui.html]
+  https://afternoon-sea-54834.herokuapp.com/swagger-ui.html
 
 
